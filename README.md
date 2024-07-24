@@ -1,6 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rcfroggatt786)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcfroggatt786&langs=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcfroggatt786&langs_count=20&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rcfroggatt786/rcfroggatt786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
